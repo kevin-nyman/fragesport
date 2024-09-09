@@ -1,0 +1,15 @@
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\bin\Debug\net8.0\fragesport.exe
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\bin\Debug\net8.0\fragesport.deps.json
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\bin\Debug\net8.0\fragesport.runtimeconfig.json
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\bin\Debug\net8.0\fragesport.dll
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\bin\Debug\net8.0\fragesport.pdb
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\obj\Debug\net8.0\fragesport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\obj\Debug\net8.0\fragesport.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\obj\Debug\net8.0\fragesport.AssemblyInfo.cs
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\obj\Debug\net8.0\fragesport.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\obj\Debug\net8.0\fragesport.sourcelink.json
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\obj\Debug\net8.0\fragesport.dll
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\obj\Debug\net8.0\refint\fragesport.dll
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\obj\Debug\net8.0\fragesport.pdb
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\obj\Debug\net8.0\fragesport.genruntimeconfig.cache
+C:\Users\Kevin\Documents\Programmering 1\fragesport\fragesport\obj\Debug\net8.0\ref\fragesport.dll
