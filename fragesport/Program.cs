@@ -19,7 +19,7 @@ public class Quiz {
             if (answer.ContainsKey(input)) {
                 return answer[input];
         } else {
-            Console.WriteLine("typdae one of the alternatives...");
+            Console.WriteLine("type one of the alternatives...");
             }
 
 
